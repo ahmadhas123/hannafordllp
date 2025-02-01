@@ -1,0 +1,804 @@
+/***** Below 1376px *****/
+
+@media (max-width: 86em) {
+  body {
+    font-size: 56.25%;
+  }
+
+  .section-hero {
+    padding-left: 4.8rem;
+  }
+
+  .textbox-aboutus {
+    padding: 16rem;
+  }
+
+  .benefit-title {
+    font-size: 2.4rem;
+  }
+
+  .benefit {
+    margin-left: 2.4rem;
+  }
+
+  .benefit-heading {
+    font-size: 4.8rem;
+  }
+
+  .heading-cta {
+    padding: 2.4rem;
+    text-align: center;
+  }
+
+  .options {
+    margin-right: 3.2rem;
+  }
+
+  .heading-understanding {
+    grid-column: span 2;
+  }
+
+  .article-textbox {
+    grid-template-columns: 1fr 4fr;
+  }
+
+  .question-box {
+    gap: 2.4rem;
+  }
+
+  .footer {
+    gap: 4.8rem;
+  }
+
+  .grid {
+    gap: 2.4rem;
+  }
+
+  .heading-secondary {
+    font-size: 4.8rem;
+  }
+
+  .profile-options {
+    gap: 2rem;
+    bottom: 80px;
+  }
+
+  .profile-icon {
+    height: 64px;
+    padding: 1.6rem;
+  }
+
+  .profile-card {
+    gap: 4.8rem;
+  }
+
+  .profile-tabs button {
+    font-size: 2.8rem;
+  }
+
+  .list-entry,
+  .entry {
+    font-size: 2.4rem;
+  }
+
+  .service-info {
+    gap: 2.4rem;
+  }
+
+  .service-info p {
+    font-size: 3.6rem;
+  }
+
+  .service-details p {
+    font-size: 1.8rem;
+  }
+
+  .newsarticle-infobox {
+    margin-top: 48rem;
+    max-width: 80%;
+  }
+
+  .news-information p:first-child {
+    padding-top: 4rem;
+  }
+}
+
+/***** Below 1152px *****/
+
+@media (max-width: 72em) {
+  .heading-hero {
+    margin: 32rem 20rem 1rem 0;
+  }
+
+  .search-bar {
+    transform: translate(-25%, 20%);
+  }
+
+  .grid-aboutus {
+    grid: 3fr 4fr;
+  }
+
+  .headings-aboutus {
+    padding: 2.4rem;
+  }
+
+  .textbox-aboutus {
+    padding: 10rem;
+  }
+
+  .contactus-heading {
+    font-size: 5.4rem;
+  }
+
+  .heading-primary {
+    font-size: 5.4rem;
+  }
+
+  .heading-secondary {
+    font-size: 4.2rem;
+  }
+
+  .heading-fourth {
+    font-size: 2.8rem;
+  }
+
+  .section-benefits {
+    grid-template-columns: 1fr 1fr;
+    justify-content: flex-end;
+  }
+
+  .benefit {
+    padding-right: 0;
+  }
+
+  .section-options {
+    padding-top: 8rem;
+    grid-template-columns: 75fr 25fr;
+    gap: 1.6rem;
+  }
+
+  .options {
+    margin-right: 0;
+  }
+
+  .option {
+    padding: 0 2rem;
+  }
+
+  .article-textbox {
+    gap: 1.2rem;
+  }
+
+  .question {
+    font-size: 3.2rem;
+  }
+
+  .faqs-title {
+    margin-bottom: 6.4rem;
+  }
+
+  .footer {
+    gap: 3.2rem;
+  }
+
+  .profile-card {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .team-grid {
+    column-gap: 2.4rem;
+    row-gap: 7.2rem;
+    margin-left: 2.4rem;
+    margin-right: 2.4rem;
+  }
+
+  .service-info p {
+    font-size: 3.2rem;
+  }
+
+  .service-details p {
+    font-size: 1.8rem;
+  }
+
+  .page-heading {
+    font-size: 5.4rem;
+  }
+
+  .service-info {
+    padding-top: 4.8rem;
+  }
+
+  .contact-linkbox {
+    margin-bottom: 20rem;
+  }
+
+  .service {
+    margin-top: 48rem;
+  }
+
+  .newsarticle-infobox {
+    margin-top: 44rem;
+    max-width: 90%;
+  }
+
+  .news-infobox {
+    gap: 6.4rem;
+  }
+}
+
+/* **** Below 928px **** */
+
+@media (max-width: 58em) {
+  body {
+    font-size: 50%;
+  }
+
+  .btn-mobile-open {
+    display: inline;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  .heading-hero {
+    margin-right: 12rem;
+  }
+
+  .headings-aboutus {
+    padding: 1.6rem;
+  }
+
+  .textbox-aboutus {
+    padding: 6rem 2.4rem 4.8rem 4.8rem;
+  }
+
+  .benefit-heading {
+    font-size: 4.8rem;
+  }
+
+  .section-options {
+    gap: 0;
+    grid-template-columns: 1fr;
+  }
+
+  .options-link {
+    justify-self: start;
+  }
+
+  .heading-understanding {
+    padding-right: 4rem;
+  }
+
+  .option:nth-child(odd) {
+    border-left: none;
+  }
+
+  .options {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .article-textbox {
+    gap: 0;
+  }
+
+  .heading-reviews {
+    grid-column: span 2;
+    margin: 4rem 0;
+  }
+
+  .services {
+    grid-area: 1/3;
+  }
+
+  .footer-contactus {
+    grid-column: span 2;
+  }
+
+  .footer {
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 2.4rem;
+    column-gap: 1.6rem;
+  }
+
+  .copyright-textbox p {
+    padding-right: 2.4rem;
+  }
+
+  .tnc-texbox {
+    gap: 1.2rem;
+  }
+
+  .contactus-heading {
+    font-size: 4.8rem;
+  }
+
+  .contactus-box {
+    grid-template-columns: 1fr;
+    gap: 4.8rem;
+    padding: 2.4rem 6rem;
+  }
+
+  .map {
+    height: 50vh;
+    margin-bottom: 6.4rem;
+  }
+
+  .team-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .margin-btm {
+    margin-bottom: 4.8rem;
+  }
+
+  .margin-btm-lg {
+    margin-bottom: 12rem;
+  }
+
+  .grid-3--cols {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .heading-primary {
+    font-size: 4.4rem;
+  }
+
+  .heading-secondary {
+    font-size: 3.6rem;
+  }
+
+  .profile {
+    margin-top: 6.4rem;
+    padding-bottom: 7.2rem;
+  }
+
+  .profile-card {
+    gap: 2.4rem;
+  }
+
+  .profile-option {
+    gap: 1.2rem;
+  }
+
+  .carousel {
+    margin-bottom: 2.4rem;
+  }
+
+  .details {
+    font-size: 1.8rem;
+  }
+
+  .profile-tabs {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1.2rem;
+    margin: 8.4rem 0 5.6rem 0;
+  }
+
+  .tab-grid ul {
+    padding: 3.2rem 0 3.2rem 6rem;
+  }
+
+  .profile-name {
+    font-size: 3.2rem;
+  }
+
+  .profile-tabs button {
+    flex-basis: 24%;
+  }
+
+  .profile-textbox {
+    padding: 0;
+  }
+
+  .profile-options {
+    gap: 1.2rem;
+    bottom: 60px;
+  }
+
+  .profile-icon {
+    height: 42px;
+    padding: 1rem;
+  }
+
+  .profile-icontext {
+    font-size: 1.8rem;
+  }
+
+  .service-info p {
+    font-size: 2.8rem;
+  }
+
+  .service-details p,
+  .service-details li {
+    font-size: 1.6rem;
+  }
+
+  .service-heading {
+    font-size: 3.6rem;
+  }
+
+  .page-heading {
+    font-size: 4.8rem;
+  }
+
+  .service-info {
+    grid-template-columns: 52fr 1px 48fr;
+  }
+
+  .service {
+    margin-top: 36rem;
+  }
+
+  .newsarticle-infobox {
+    margin-top: 32rem;
+    margin-bottom: 4.8rem;
+    padding-bottom: 7.2rem;
+    max-width: 100%;
+  }
+
+  .article-author {
+    font-size: 2rem;
+  }
+
+  .news-information p {
+    font-size: 1.8rem;
+    line-height: 32px;
+  }
+
+  .news-infobox {
+    gap: 4rem;
+  }
+}
+
+/* **** Below 672px **** */
+
+@media (max-width: 42em) {
+  .heading-hero {
+    margin: 22rem 2.4rem 0 0;
+  }
+
+  .grid-aboutus {
+    grid-template-columns: 1fr;
+    border: none;
+  }
+
+  .textbox-aboutus {
+    border: none;
+    padding: 0;
+  }
+
+  .headings-aboutus {
+    padding: 6rem 0 4.8rem 0;
+    margin-top: 3.2rem;
+  }
+
+  .benefit-heading {
+    font-size: 3.2rem;
+  }
+
+  .section-benefits {
+    padding-top: 11.2rem;
+  }
+
+  .benefit {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .benefit-textbox {
+    margin: 2.8rem 0;
+  }
+
+  .benefit-textbox:before {
+    display: none;
+  }
+
+  .section-cta {
+    margin-top: 10rem;
+    height: 60vh;
+  }
+
+  .options {
+    grid-template-columns: 1fr;
+    margin-bottom: 12rem;
+  }
+
+  .option {
+    gap: 2.4rem;
+    margin-bottom: 4rem;
+  }
+
+  .article-textbox {
+    margin: 4rem 0;
+    gap: 0.8rem;
+  }
+
+  .heading-reviews {
+    grid-column: span 1;
+  }
+
+  .question {
+    font-size: 2.4rem;
+  }
+
+  .footer {
+    grid-template-columns: 1fr;
+    row-gap: 4rem;
+  }
+
+  .footer-row h5 {
+    font-size: 2.8rem;
+    margin-bottom: 0;
+    margin-top: 1.6rem;
+  }
+
+  .services {
+    grid-area: auto;
+  }
+
+  .footer-contactus {
+    grid-column: span 1;
+  }
+
+  .team-grid {
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1.2rem;
+  }
+
+  .team-subtext {
+    font-size: 1.8rem;
+    padding: 0 0.8rem;
+  }
+
+  .contactus-heading {
+    margin-top: 22rem;
+    font-size: 4.2rem;
+  }
+
+  .contactus-box {
+    padding: 1.2rem;
+  }
+
+  .contactus-subtext {
+    font-size: 1.8rem;
+    max-width: 100%;
+  }
+
+  .form-icon {
+    height: 32px;
+    width: 32px;
+  }
+
+  .form-entry {
+    gap: 1.2rem;
+    padding: 0.8rem 1.6rem;
+  }
+
+  input,
+  textarea {
+    font-size: 2rem;
+  }
+
+  input::placeholder,
+  textarea::placeholder {
+    font-size: 2rem;
+  }
+
+  .form {
+    gap: 3.6rem;
+  }
+
+  .contact-infobox p {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .mobile-search {
+    width: 37.8rem;
+  }
+
+  .mobile-search-bar {
+    font-size: 2.4rem;
+  }
+
+  .mobile-search-bar::placeholder {
+    font-size: 2.4rem;
+  }
+
+  .mobile-nav a:link,
+  .mobile-nav a:visited {
+    font-size: 2.4rem;
+  }
+
+  .icon-mobile-nav {
+    right: -150px;
+    top: -30px;
+  }
+
+  .heading-primary {
+    font-size: 3.2rem;
+  }
+
+  .heading-secondary {
+    font-size: 2.8rem;
+  }
+
+  .grid-2--cols {
+    grid-template-columns: 1fr;
+  }
+
+  .grid-3--cols {
+    grid-template-columns: 1fr;
+    gap: 4rem;
+  }
+
+  .profile-card {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-name {
+    font-size: 2.8rem;
+  }
+
+  .profile-options {
+    bottom: 70px;
+    gap: 1rem;
+  }
+
+  .profile-icon {
+    height: 52px;
+    padding: 1.2rem;
+  }
+
+  .profile-imgbox {
+    width: 80%;
+    justify-self: center;
+  }
+
+  .profile-tabs button {
+    font-size: 2.4rem;
+    padding: 0 0 0.8rem 0;
+  }
+
+  .profile-tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .tab-grid {
+    grid-template-columns: 1fr;
+    gap: 3.6rem;
+  }
+
+  .tab-list {
+    padding: 0 2.4rem;
+  }
+
+  .tab-grid ul {
+    border: none;
+    padding: 0 2.4rem;
+  }
+
+  .tab-grid h2 {
+    padding: 0 2.4rem;
+  }
+
+  .list-entry,
+  .entry {
+    font-size: 1.8rem;
+  }
+
+  .service-info p {
+    font-size: 2.4rem;
+  }
+
+  .service-details p {
+    font-size: 1.6rem;
+  }
+
+  .service-details {
+    margin-top: 4.8rem;
+  }
+
+  .service-heading {
+    font-size: 2.8rem;
+  }
+
+  .page-heading {
+    font-size: 3.6rem;
+  }
+
+  .service-info {
+    padding-top: 2.8rem;
+    grid-template-columns: 1fr;
+    justify-content: center;
+  }
+
+  .contact-linkbox {
+    margin-bottom: 16rem;
+  }
+
+  .service {
+    margin-top: 28rem;
+  }
+
+  .midline {
+    display: none;
+  }
+
+  .newsarticle-infobox {
+    margin-top: 24rem;
+    margin-bottom: 4.8rem;
+    padding-bottom: 7.2rem;
+  }
+
+  .news-information {
+    grid-row: 2;
+    margin-bottom: 18rem;
+  }
+
+  .news-information p {
+    font-size: 1.6rem;
+  }
+
+  .news-information h3 {
+    font-size: 2.4rem;
+  }
+
+  .news-infobox {
+    grid-template-columns: 1fr;
+  }
+
+  .article-author {
+    font-size: 1.8rem;
+  }
+}
+
+/* **** Below 432px **** */
+
+@media (max-width: 27em) {
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .team-grid div {
+    padding: 0 1.2rem;
+  }
+
+  .profile-options {
+    gap: 0.8rem;
+    bottom: 40px;
+  }
+
+  .profile-icon {
+    height: 42px;
+    padding: 1rem;
+  }
+
+  .profile-imgbox {
+    width: 100%;
+  }
+
+  .tab-list,
+  .tab-grid ul,
+  .tab-grid h2 {
+    padding: 0 1.2rem;
+  }
+
+  .mobile-search {
+    width: 31rem;
+    gap: 0.4rem;
+    padding: 0.8rem 1.2rem;
+  }
+
+  .mobile-search-bar {
+    font-size: 2rem;
+  }
+
+  .mobile-search-bar::placeholder {
+    font-size: 2rem;
+  }
+}
