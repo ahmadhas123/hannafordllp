@@ -46,7 +46,7 @@ const teamData = [
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: emily,
     academic: [
-      "Distinct in bleh bleh circa 1976 meow meow ugabuga",
+      "Distinct in this that circa 1976 meow meow ugabuga",
       "BA first class honors ooga booga HMS",
     ],
     awards: [
@@ -57,7 +57,7 @@ const teamData = [
     ],
     probonos: [
       "helped old lady cross the street",
-      "fought for my sovereign right of being allowed to park like a bich on katchery chowk",
+      "fought for my sovereign right of being allowed to park on road",
     ],
     languages: [
       "Language Proficiency: Fluent in English and Spanglish",
@@ -68,7 +68,7 @@ const teamData = [
       "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
       "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
     ],
-    news: "no insights available due to noob",
+    news: "no insights available",
     details: [
       "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
       "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
@@ -83,6 +83,37 @@ const teamData = [
     description:
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: cristian,
+    academic: [
+      "Distinct in this that circa 1976 meow meow ugabuga",
+      "BA first class honors ooga booga HMS",
+    ],
+    awards: [
+      "Succesfully did this",
+      "Learned how to spell sucessfuly",
+      "Sucesfuly did that",
+      "Did this and that in a slightly different environment an got another award",
+    ],
+    probonos: [
+      "helped old lady cross the street",
+      "fought for my sovereign right of being allowed to park on road",
+    ],
+    languages: [
+      "Language Proficiency: Fluent in English and Spanglish",
+      "Multilingual Team: Our firm comprises lawyers proficient in a variety of languages, including Siraiki, French, and Chinese, to assist clients with international maritime legal matters.",
+    ],
+    interests: [
+      "Specializes in Admiralty Law, with a focus on collision and salvage cases.",
+      "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
+      "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
+    ],
+    news: "no insights available",
+    details: [
+      "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "5. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+    ],
   },
   {
     name: "Mark A",
@@ -90,6 +121,37 @@ const teamData = [
     description:
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: mark,
+    academic: [
+      "Distinct in this that circa 1976 meow meow ugabuga",
+      "BA first class honors ooga booga HMS",
+    ],
+    awards: [
+      "Succesfully did this",
+      "Learned how to spell sucessfuly",
+      "Sucesfuly did that",
+      "Did this and that in a slightly different environment an got another award",
+    ],
+    probonos: [
+      "helped old lady cross the street",
+      "fought for my sovereign right of being allowed to park on road",
+    ],
+    languages: [
+      "Language Proficiency: Fluent in English and Spanglish",
+      "Multilingual Team: Our firm comprises lawyers proficient in a variety of languages, including Siraiki, French, and Chinese, to assist clients with international maritime legal matters.",
+    ],
+    interests: [
+      "Specializes in Admiralty Law, with a focus on collision and salvage cases.",
+      "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
+      "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
+    ],
+    news: "no insights available",
+    details: [
+      "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "5. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+    ],
   },
   {
     name: "Stewart A",
@@ -97,6 +159,37 @@ const teamData = [
     description:
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: stewart,
+    academic: [
+      "Distinct in this that circa 1976 meow meow ugabuga",
+      "BA first class honors ooga booga HMS",
+    ],
+    awards: [
+      "Succesfully did this",
+      "Learned how to spell sucessfuly",
+      "Sucesfuly did that",
+      "Did this and that in a slightly different environment an got another award",
+    ],
+    probonos: [
+      "helped old lady cross the street",
+      "fought for my sovereign right of being allowed to park on road",
+    ],
+    languages: [
+      "Language Proficiency: Fluent in English and Spanglish",
+      "Multilingual Team: Our firm comprises lawyers proficient in a variety of languages, including Siraiki, French, and Chinese, to assist clients with international maritime legal matters.",
+    ],
+    interests: [
+      "Specializes in Admiralty Law, with a focus on collision and salvage cases.",
+      "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
+      "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
+    ],
+    news: "no insights available",
+    details: [
+      "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "5. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+    ],
   },
   {
     name: "Emily B",
@@ -104,6 +197,37 @@ const teamData = [
     description:
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: emily,
+    academic: [
+      "Distinct in this that circa 1976 meow meow ugabuga",
+      "BA first class honors ooga booga HMS",
+    ],
+    awards: [
+      "Succesfully did this",
+      "Learned how to spell sucessfuly",
+      "Sucesfuly did that",
+      "Did this and that in a slightly different environment an got another award",
+    ],
+    probonos: [
+      "helped old lady cross the street",
+      "fought for my sovereign right of being allowed to park on road",
+    ],
+    languages: [
+      "Language Proficiency: Fluent in English and Spanglish",
+      "Multilingual Team: Our firm comprises lawyers proficient in a variety of languages, including Siraiki, French, and Chinese, to assist clients with international maritime legal matters.",
+    ],
+    interests: [
+      "Specializes in Admiralty Law, with a focus on collision and salvage cases.",
+      "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
+      "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
+    ],
+    news: "no insights available",
+    details: [
+      "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "5. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+    ],
   },
   {
     name: "Cristian B",
@@ -111,6 +235,37 @@ const teamData = [
     description:
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: cristian,
+    academic: [
+      "Distinct in this that circa 1976 meow meow ugabuga",
+      "BA first class honors ooga booga HMS",
+    ],
+    awards: [
+      "Succesfully did this",
+      "Learned how to spell sucessfuly",
+      "Sucesfuly did that",
+      "Did this and that in a slightly different environment an got another award",
+    ],
+    probonos: [
+      "helped old lady cross the street",
+      "fought for my sovereign right of being allowed to park on road",
+    ],
+    languages: [
+      "Language Proficiency: Fluent in English and Spanglish",
+      "Multilingual Team: Our firm comprises lawyers proficient in a variety of languages, including Siraiki, French, and Chinese, to assist clients with international maritime legal matters.",
+    ],
+    interests: [
+      "Specializes in Admiralty Law, with a focus on collision and salvage cases.",
+      "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
+      "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
+    ],
+    news: "no insights available",
+    details: [
+      "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "5. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+    ],
   },
   {
     name: "Mark B",
@@ -118,6 +273,37 @@ const teamData = [
     description:
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: mark,
+    academic: [
+      "Distinct in this that circa 1976 meow meow ugabuga",
+      "BA first class honors ooga booga HMS",
+    ],
+    awards: [
+      "Succesfully did this",
+      "Learned how to spell sucessfuly",
+      "Sucesfuly did that",
+      "Did this and that in a slightly different environment an got another award",
+    ],
+    probonos: [
+      "helped old lady cross the street",
+      "fought for my sovereign right of being allowed to park on road",
+    ],
+    languages: [
+      "Language Proficiency: Fluent in English and Spanglish",
+      "Multilingual Team: Our firm comprises lawyers proficient in a variety of languages, including Siraiki, French, and Chinese, to assist clients with international maritime legal matters.",
+    ],
+    interests: [
+      "Specializes in Admiralty Law, with a focus on collision and salvage cases.",
+      "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
+      "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
+    ],
+    news: "no insights available",
+    details: [
+      "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "5. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+    ],
   },
   {
     name: "Stewart B",
@@ -125,6 +311,37 @@ const teamData = [
     description:
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: stewart,
+    academic: [
+      "Distinct in this that circa 1976 meow meow ugabuga",
+      "BA first class honors ooga booga HMS",
+    ],
+    awards: [
+      "Succesfully did this",
+      "Learned how to spell sucessfuly",
+      "Sucesfuly did that",
+      "Did this and that in a slightly different environment an got another award",
+    ],
+    probonos: [
+      "helped old lady cross the street",
+      "fought for my sovereign right of being allowed to park on road",
+    ],
+    languages: [
+      "Language Proficiency: Fluent in English and Spanglish",
+      "Multilingual Team: Our firm comprises lawyers proficient in a variety of languages, including Siraiki, French, and Chinese, to assist clients with international maritime legal matters.",
+    ],
+    interests: [
+      "Specializes in Admiralty Law, with a focus on collision and salvage cases.",
+      "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
+      "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
+    ],
+    news: "no insights available",
+    details: [
+      "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "5. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+    ],
   },
   {
     name: "Emily B",
@@ -132,6 +349,37 @@ const teamData = [
     description:
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: emily,
+    academic: [
+      "Distinct in this that circa 1976 meow meow ugabuga",
+      "BA first class honors ooga booga HMS",
+    ],
+    awards: [
+      "Succesfully did this",
+      "Learned how to spell sucessfuly",
+      "Sucesfuly did that",
+      "Did this and that in a slightly different environment an got another award",
+    ],
+    probonos: [
+      "helped old lady cross the street",
+      "fought for my sovereign right of being allowed to park on road",
+    ],
+    languages: [
+      "Language Proficiency: Fluent in English and Spanglish",
+      "Multilingual Team: Our firm comprises lawyers proficient in a variety of languages, including Siraiki, French, and Chinese, to assist clients with international maritime legal matters.",
+    ],
+    interests: [
+      "Specializes in Admiralty Law, with a focus on collision and salvage cases.",
+      "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
+      "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
+    ],
+    news: "no insights available",
+    details: [
+      "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "5. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+    ],
   },
   {
     name: "Cristian B",
@@ -139,6 +387,37 @@ const teamData = [
     description:
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: cristian,
+    academic: [
+      "Distinct in this that circa 1976 meow meow ugabuga",
+      "BA first class honors ooga booga HMS",
+    ],
+    awards: [
+      "Succesfully did this",
+      "Learned how to spell sucessfuly",
+      "Sucesfuly did that",
+      "Did this and that in a slightly different environment an got another award",
+    ],
+    probonos: [
+      "helped old lady cross the street",
+      "fought for my sovereign right of being allowed to park on road",
+    ],
+    languages: [
+      "Language Proficiency: Fluent in English and Spanglish",
+      "Multilingual Team: Our firm comprises lawyers proficient in a variety of languages, including Siraiki, French, and Chinese, to assist clients with international maritime legal matters.",
+    ],
+    interests: [
+      "Specializes in Admiralty Law, with a focus on collision and salvage cases.",
+      "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
+      "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
+    ],
+    news: "no insights available",
+    details: [
+      "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "5. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+    ],
   },
   {
     name: "Mark B",
@@ -146,6 +425,37 @@ const teamData = [
     description:
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: mark,
+    academic: [
+      "Distinct in this that circa 1976 meow meow ugabuga",
+      "BA first class honors ooga booga HMS",
+    ],
+    awards: [
+      "Succesfully did this",
+      "Learned how to spell sucessfuly",
+      "Sucesfuly did that",
+      "Did this and that in a slightly different environment an got another award",
+    ],
+    probonos: [
+      "helped old lady cross the street",
+      "fought for my sovereign right of being allowed to park on road",
+    ],
+    languages: [
+      "Language Proficiency: Fluent in English and Spanglish",
+      "Multilingual Team: Our firm comprises lawyers proficient in a variety of languages, including Siraiki, French, and Chinese, to assist clients with international maritime legal matters.",
+    ],
+    interests: [
+      "Specializes in Admiralty Law, with a focus on collision and salvage cases.",
+      "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
+      "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
+    ],
+    news: "no insights available",
+    details: [
+      "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "5. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+    ],
   },
   {
     name: "Stewart B",
@@ -153,6 +463,37 @@ const teamData = [
     description:
       "lorem ipsum dum dum scooby dooby doo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates culpa provident est at ullam! Dignissimos fugiat nesciunt perspiciatis aperiam illo fuga molestiae omnis natus molestias iure, in facilis nam sunt!",
     img: stewart,
+    academic: [
+      "Distinct in this that circa 1976 meow meow ugabuga",
+      "BA first class honors ooga booga HMS",
+    ],
+    awards: [
+      "Succesfully did this",
+      "Learned how to spell sucessfuly",
+      "Sucesfuly did that",
+      "Did this and that in a slightly different environment an got another award",
+    ],
+    probonos: [
+      "helped old lady cross the street",
+      "fought for my sovereign right of being allowed to park on road",
+    ],
+    languages: [
+      "Language Proficiency: Fluent in English and Spanglish",
+      "Multilingual Team: Our firm comprises lawyers proficient in a variety of languages, including Siraiki, French, and Chinese, to assist clients with international maritime legal matters.",
+    ],
+    interests: [
+      "Specializes in Admiralty Law, with a focus on collision and salvage cases.",
+      "Expertise in Marine Insurance and has successfully handled numerous claims for international shipping companies.",
+      "Enthusiastic sailor and member of the local Yacht Club. Passion for marine conservation and regularly volunteers for beach clean-up initiatives.",
+    ],
+    news: "no insights available",
+    details: [
+      "1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+      "5. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ab error consequatur ea rem quos. Quasi dolores aliquam similique sequi eius voluptas suscipit tenetur obcaecati hic nihil? Quidem, non adipisci",
+    ],
   },
 ];
 
